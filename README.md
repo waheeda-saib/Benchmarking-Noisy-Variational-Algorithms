@@ -1,1 +1,1 @@
-# Noisy-Variational-Algorithms
+# Benchmarking-Noisy-Variational-Algorithms
