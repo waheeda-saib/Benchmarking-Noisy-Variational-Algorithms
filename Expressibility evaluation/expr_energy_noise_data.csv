@@ -1,0 +1,13 @@
+Ansatz;Gates;Qubits;Device;Expr;Energy;Noise Model
+HEA_ry;CX;4;Qasm Simulator;0.698;-0.871803370673;ibmqx2
+HEA_ry;CZ;4;Qasm Simulator;0.673;-0.928334771495;ibmqx2
+HEA_ry;cxczcxcz;4;Qasm Simulator;0.731;-0.882675528132;ibmqx2
+HEA_ry;cxczczcx;4;Qasm Simulator;0.715;-0.926339118166;ibmqx2
+HEA_ry;cxcxczcz;4;Qasm Simulator;0.885;-0.910471020212;ibmqx2
+HEA_ry;czcxczcx;4;Qasm Simulator;0.899;-0.880535316844;ibmqx2
+HEA_ry;czcxcxcz;4;Qasm Simulator;0.832;-0.918613994028;ibmqx2
+HEA_ry;czczcxcx;4;Qasm Simulator;0.747;-0.896734453932;ibmqx2
+HEA_hrx;cx;4;Qasm Simulator;0.835;-0.839729628257;ibmqx2
+HEA_hrx;cz;4;Qasm Simulator;2.668 ;-0.352651431271;ibmqx2
+HEA_ryrz ;cz;4;Qasm Simulator;1.459 ;-0.900195149326;ibmqx2
+HEA_ryrz ;cx;4;Qasm Simulator;0.946 ;-0.908470093294;ibmqx2

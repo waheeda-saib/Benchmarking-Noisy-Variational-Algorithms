@@ -1,0 +1,13 @@
+Ansatz;Gates;Qubits;Device;Expr;Energy
+HEA_ry;CX;4;Qasm Simulator;0.224;-1.119287465028
+HEA_ry;CZ;4;Qasm Simulator;0.226;-1.108854119352
+HEA_ry;cxczcxcz;4;Qasm Simulator;0.229;-1.120572726982
+HEA_ry;cxczczcx;4;Qasm Simulator;0.234;-1.117433032943
+HEA_ry;cxcxczcz;4;Qasm Simulator;0.205;-1.11792236761
+HEA_ry;czcxczcx;4;Qasm Simulator;0.202;-1.115502156359
+HEA_ry;czcxcxcz;4;Qasm Simulator;0.224;-1.120137360564
+HEA_ry;czczcxcx;4;Qasm Simulator;0.240;-1.119430598065
+HEA_hrx;CX;4;Qasm Simulator;0.648;-1.121109159001
+HEA_hrx;CZ;4;Qasm Simulator;0.691;-0.527619295986
+HEA_ryrz;CZ;4;Qasm Simulator;0.027;-1.118461768808
+HEA_ryrz;CX;4;Qasm Simulator;0.020;-1.119077216816
