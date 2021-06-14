@@ -1,37 +1,17 @@
-# Benchmarking Variational Algorithms for Quantum Chemistry
+# Benchmarking Noisy Variational Algorithms for Quantum Chemistry
 
-This repository was created as part of the MSc thesis at the University of Edinburgh on “The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry”. The source code used for all the benchmarking experiments implemented in this study has been made available in this repository.
+![Github License](https://img.shields.io/hexpm/l/plug) 
+
+This repository was created as part of the MSc thesis at the University of Edinburgh on “The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry”. The source code for all the benchmarking experiments implemented in this study has been made available in this repository, together with the circuit performance data and the results of each experiment presented on Jupyter notebooks.
 
 The project goal was to view how noise changes which ansatz is the best for a quantum chemistry problem using VQE. Additionally we assess the ability of the expressibility measure to identify suitable circuits for VQE applied to a quantum chemistry use case.
 
-## Usage
-## Authors
-## License
-
------------------------------------
-# Title of Your Project [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20cool%20project&url=https://github.com/Cool/Project&hashtags=project,opensource)
-
-![Github License](https://img.shields.io/badge/license-MIT-green)
-![Code Coverage](https://img.shields.io/badge/coverage-90%25-green)
-![React Version](https://img.shields.io/badge/react-v16.12.0-blue.svg)
-
-![example](https://mdn.mozillademos.org/files/10529/inspector.png)
-
-#### Description of your project
-
-## Table of content
-
-- [**Getting Started**](#getting-started)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Get Help](#get-help)
-- [Motivation](#motivation)
-- [Acknowledgments](#acknowledgements)
-
 ## Getting Started
-Describe how to get started here.
+The software requirements needed to run the benchmarking experiments are
 
+### Prerequisites
+- Qiskit v0.23.0
+- 
 ### Install
 ```console
 npm install your-project
@@ -51,28 +31,11 @@ const App = () => {
 ```
 ## Built With
 
-Explain which technologies you've used here.
+This project makes use of the Qiskit SDK : https://github.com/Qiskit
 
-## Contributing
-
-#### Issues
-In the case of a bug report, bugfix or a suggestions, please feel very free to open an issue.
-
-#### Pull request
-Pull requests are always welcome, and I'll do my best to do reviews as fast as I can.
+## Author
+- Waheeda Saib
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
-
-## Get Help
-- Contact me on my-email@email.com
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
-
-## Motivation
-Describe your motivation for creating this Open-Source Project
-
-## Acknowledgements
-Acknowledge the Open-Source projects that you've included in your solution.
-
-See this template in use on the Open-Source project [Hue Debugger UI](https://github.com/Silind-Software/Hue-Debugger-UI)
+This project is licensed under the [Apache License 2.0. License](https://github.com/waheeda-saib/Benchmarking-Noisy-Variational-Algorithms/blob/main/LICENSE)
