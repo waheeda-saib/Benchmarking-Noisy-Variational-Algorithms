@@ -7,28 +7,23 @@ This repository was created as part of the MSc thesis at the University of Edinb
 The project goal was to view how noise changes which ansatz is the best for a quantum chemistry problem using VQE. Additionally we assess the ability of the expressibility measure to identify suitable circuits for VQE applied to a quantum chemistry use case.
 
 ## Getting Started
-The software requirements needed to run the benchmarking experiments are
+
+To view the results of the benchmarking experiments, each folder contains Jupyter notebooks with associated results. Each experiment is represented by Jupyter notebooks with the associated results presented.
+
+The software requirements needed to run the benchmarking experiments include Python, Numpy, Pandas and Jupyter notebooks that is contained in the Anaconda data science toolkit. The Qiskit SDK was used to implement our quantum experiments.
 
 ### Prerequisites
-- Qiskit v0.23.0
-- 
+
+- [Anaconda](https://www.anaconda.com/products/individual) 
+- [Qiskit]((https://www.anaconda.com/products/individual) ), version v0.23.0
+
 ### Install
 ```console
-npm install your-project
+conda install python=3.7
+pip install qiskit==0.23.0 
+
 ```
 
-### Usage
-Describe how you use it here.
-```javascript
-import { configure, useProject } from 'your-project';
-
-configure();
-
-const App = () => {
-  const [project, setProject] = useProject();
-  // ... More pseudo code here...
-}
-```
 ## Built With
 
 This project makes use of the Qiskit SDK : https://github.com/Qiskit
