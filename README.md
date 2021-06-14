@@ -8,9 +8,9 @@ The project goal was to view how noise changes which ansatz is the best for a qu
 
 ## Getting Started
 
-To view the results of the benchmarking experiments, each folder contains Jupyter notebooks with associated results. Each experiment is represented by Jupyter notebooks with the associated results presented.
+To view the results of the benchmarking experiments, each folder contains related experiments represented by Jupyter notebooks with the associated results.
 
-The software requirements needed to run the benchmarking experiments include Python, Numpy, Pandas and Jupyter notebooks that is contained in the Anaconda data science toolkit. The Qiskit SDK was used to implement our quantum experiments.
+The software requirements needed to run the benchmarking experiments include Python, Numpy, Pandas and Jupyter notebook that is contained in the Anaconda data science toolkit. The Qiskit SDK was used to implement our quantum experiments.
 
 ### Prerequisites
 
