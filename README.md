@@ -15,9 +15,12 @@ The software requirements needed to run the benchmarking experiments include Pyt
 ### Prerequisites
 
 - [Anaconda](https://www.anaconda.com/products/individual) 
+- [Python](https://www.python.org/), version 3.7
 - [Qiskit](https://qiskit.org/documentation/getting_started.html), version 0.23.0
 
 ### Install
+Once Anaconda has been downloaded and installed, the following commands may be used to update python and install qiskit.
+
 ```console
 conda install python=3.7
 pip   install qiskit==0.23.0 
