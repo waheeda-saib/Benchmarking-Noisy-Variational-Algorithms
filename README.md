@@ -2,7 +2,7 @@
 
 ![Github License](https://img.shields.io/hexpm/l/plug) 
 
-This repository was created as part of the MSc thesis at the University of Edinburgh on “The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry”. The source code for all the benchmarking experiments implemented in this study has been made available in this repository, together with the circuit performance data and the results of each experiment presented on Jupyter notebooks.
+This repository was created as part of a MSc thesis at the University of Edinburgh on "The Effect of Noise on the Performance of Variational Algorithms for Quantum Chemistry". The source code for all the benchmarking experiments implemented in this study has been made available in this repository, together with the circuit performance data and the results of each experiment presented on Jupyter notebooks.
 
 The project goal was to view how noise changes which ansatz is the best for a quantum chemistry problem using VQE. Additionally we assess the ability of the expressibility measure to identify suitable circuits for VQE applied to a quantum chemistry use case.
 
@@ -33,4 +33,4 @@ This project makes use of the Qiskit SDK : https://github.com/Qiskit
 
 ## License
 
-This project is licensed under the [Apache License 2.0. License](https://github.com/waheeda-saib/Benchmarking-Noisy-Variational-Algorithms/blob/main/LICENSE)
+This project is licensed under the [Apache License 2.0.](https://github.com/waheeda-saib/Benchmarking-Noisy-Variational-Algorithms/blob/main/LICENSE)
